@@ -38,11 +38,11 @@ I am an innovative and results-driven Data Scientist with a powerful combination
 <div></div>
 <h2>🚀 What I'm Currently Working On</h2>
 <br>
-📈 Predictive Modeling: Exploring advanced techniques for time series forecasting.
+📈 Predictive Modeling: Currently researching and implementing advanced statistical and deep learning models for time-series data, with a specific focus on capturing seasonality, trend, and external factors for more accurate predictions.
 <br>
-🧠 Deep Learning: Building a multi-variate model using advanced Keras architectures.
+🧠 Deep Learning: Developing a multi-variate deep learning model using Keras/TensorFlow, such as an LSTM-based architecture, to analyze and predict complex patterns in interconnected datasets.
 <br>
-☁️ Cloud Computing: Improving my knowledge of Google Cloud Platform and deployment strategies.
+👁️ Computer Vision: Implementing Convolutional Neural Networks (CNNs) for image classification and object detection, applying knowledge to real-world visual data challenges.
 
 <h2>📊 My GitHub Stats</h2>
 <div align="center">
