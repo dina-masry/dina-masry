@@ -1,87 +1,62 @@
 <div align="center">
-<img src="https://emojicdn.elk.sh/wave?style=apple" width="50px" alt="Waving Hand Emoji">
-<h1>Hello, I'm Dina Masry!</h1>
-<p>Data Scientist | Machine Learning Engineer | Problem Solver</p>
-</div>
-
+<img src="https://emojicdn.elk.sh/sparkles?style=apple" width="30px" alt="Sparkles Emoji">
+<img src="https://emojicdn.elk.sh/rocket?style=apple" width="50px" alt="Rocket Emoji">
+<img src="https://emojicdn.elk.sh/sparkles?style=apple" width="30px" alt="Sparkles Emoji">
+<h1>Hey there! I'm Dina Masry!</h1>
+<h3>Data Scientist | ML Engineer | Problem-Solver</h3>
 <br>
-
-<div align="center">
+<p align="center">
 <a href="https://github.com/dina-masry">
-<img src="https://emojicdn.elk.sh/sparkles?style=apple" width="20px" alt="Sparkles Emoji">
-<span>&nbsp;A visionary turning data into a competitive advantage&nbsp;</span>
-<img src="https://emojicdn.elk.sh/sparkles?style=apple" width="20px" alt="Sparkles Emoji">
+<img src="https://img.shields.io/badge/A_visionary_turning_data_into_a_competitive_advantage-blue?style=for-the-badge&logo=github&logoColor=white" alt="Visionary Badge">
 </a>
+</p>
 </div>
 
 💻 About Me
-I am a passionate and innovative Data Scientist with a formidable blend of academic excellence (Al-Azhar University, 93% GPA in Computer Systems Engineering) and intensive bootcamp proficiency. My mission is to transform complex datasets into actionable intelligence and architect impactful, data-powered strategies.
+I am an innovative and results-driven Data Scientist with a powerful combination of academic excellence from Al-Azhar University (93% GPA in Computer Systems Engineering) and a robust 16-week bootcamp proficiency. My mission is to architect impactful, data-powered strategies by transforming complex datasets into actionable intelligence. My expertise spans the entire data science lifecycle, from advanced manipulation to deploying sophisticated models in deep learning, time series forecasting, and more. I am a lifelong learner with a relentless passion for innovation.
 
-My expertise spans the entire data science lifecycle, from advanced data manipulation and insightful visualization to deploying sophisticated predictive models across deep learning, time series forecasting, and beyond. I thrive on challenges and am a dedicated lifelong learner.
-
-🧠 My Core Knowledge & Toolkit
-Here's a snapshot of my technical stack:
-
-Category
-
-Tools & Concepts
-
-Languages
-
-Python, SQL
-
-Data & ETL
-
-Pandas, NumPy, Data Cleaning, Feature Engineering, Pipelines
-
-Visualization
-
-Matplotlib, Seaborn, EDA
-
-ML Frameworks
-
-scikit-learn, Keras, CRISP-DM
-
-ML Models
-
-Regression, Classification, Clustering, ARIMA, SARIMA
-
-Advanced Topics
-
-Deep Learning, CNNs, Computer Vision, Time Series Forecasting
-
-Version Control
-
-Git, GitHub
-
-Deployment
-
-Docker, Heroku (Placeholder, can be changed)
+🛠️ My Core Knowledge & Toolkit
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge">
+<br>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge">
+<img src="https://img.shields.io/badge/Matplotlib-5D3B82?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge">
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge">
+<br>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
+<img src="https://img.shields.io/badge/CRISP--DM-009688?style=for-the-badge&logo=appveyor&logoColor=white" alt="CRISP-DM Badge">
+<br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+</div>
 
 🚀 What I'm Currently Working On
-Exploring advanced topics in Reinforcement Learning.
-
-Building a multi-variate time series forecasting model.
-
-Improving my knowledge of cloud technologies like Google Cloud Platform.
+<img src="https://emojicdn.elk.sh/chart_with_upwards_trend?style=apple" width="20px" alt="Chart Emoji"> Predictive Modeling: Exploring advanced techniques for time series forecasting.
+<br>
+<img src="https://emojicdn.elk.sh/brain?style=apple" width="20px" alt="Brain Emoji"> Deep Learning: Building a multi-variate model using advanced Keras architectures.
+<br>
+<img src="https://emojicdn.elk.sh/cloud?style=apple" width="20px" alt="Cloud Emoji"> Cloud Computing: Improving my knowledge of Google Cloud Platform and deployment strategies.
 
 📊 My GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dina-masry&show_icons=true&theme=gotham" alt="Dina's GitHub Stats" />
-<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dina-masry&layout=compact&theme=gotham" alt="Dina's Top Languages" />
+<img src="https://github-readme-trophy.vercel.app/?username=dina-masry&theme=gotham&no-bg=true" alt="GitHub Trophies">
 </div>
 
 🌐 Let's Connect!
 <div align="center">
-<a href="https://linkedin.com/in/dina-almasri-038aa4340" target="_blank" rel="noopener noreferrer">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<a href="https://linkedin.com/in/dina-masry" target="_blank" rel="noopener noreferrer">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
-<a href="mailto:dina40012@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<a href="mailto:dina.masry@example.com">
+<img src="https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
 </a>
 </div>
-
 <!--
 **dina-masry/dina-masry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
