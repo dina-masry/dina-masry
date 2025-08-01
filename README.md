@@ -44,6 +44,20 @@ I am an innovative and results-driven Data Scientist with a powerful combination
 <br>
 👁️ Computer Vision: Implementing Convolutional Neural Networks (CNNs) for image classification and object detection, applying knowledge to real-world visual data challenges.
 
+<h2>📂 My Projects</h2>
+📊 Sales Prediction Project: Focused on predicting future sales by leveraging regression models, feature engineering, and time-based analysis to provide actionable business insights.
+<br>
+🧑‍💼 Adult Incomes Prediction Project: A classification-based project to predict whether an individual's income exceeds $50K, using classification models and advanced data pre-processing.
+<br>
+<h2>🎨 Hobbies</h2>
+📚 Reading
+<br>
+🧩 Solving Puzzles
+<br>
+🔭 Exploring New Technologies
+<br>
+📈 Data Visualization
+
 <h2>📊 My GitHub Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dina-masry&show_icons=true&theme=gotham" alt="Dina's GitHub Stats" />
