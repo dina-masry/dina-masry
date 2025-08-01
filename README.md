@@ -12,10 +12,12 @@
 </p>
 </div>
 
-💻 About Me
+<h2>💻 About Me</h2>
+<br>
 I am an innovative and results-driven Data Scientist with a powerful combination of academic excellence from Al-Azhar University (93% GPA in Computer Systems Engineering) and a robust 16-week bootcamp proficiency. My mission is to architect impactful, data-powered strategies by transforming complex datasets into actionable intelligence. My expertise spans the entire data science lifecycle, from advanced manipulation to deploying sophisticated models in deep learning, time series forecasting, and more. I am a lifelong learner with a relentless passion for innovation.
-
-🛠️ My Core Knowledge & Toolkit
+<br>
+<h2>🛠️ My Core Knowledge & Toolkit</h2>
+<br>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge">
@@ -33,27 +35,29 @@ I am an innovative and results-driven Data Scientist with a powerful combination
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
 </div>
-
-🚀 What I'm Currently Working On
+<div></div>
+<h2>🚀 What I'm Currently Working On</h2>
+<br>
 <img src="https://emojicdn.elk.sh/chart_with_upwards_trend?style=apple" width="20px" alt="Chart Emoji"> Predictive Modeling: Exploring advanced techniques for time series forecasting.
 <br>
 <img src="https://emojicdn.elk.sh/brain?style=apple" width="20px" alt="Brain Emoji"> Deep Learning: Building a multi-variate model using advanced Keras architectures.
 <br>
 <img src="https://emojicdn.elk.sh/cloud?style=apple" width="20px" alt="Cloud Emoji"> Cloud Computing: Improving my knowledge of Google Cloud Platform and deployment strategies.
 
-📊 My GitHub Stats
+<h2>📊 My GitHub Stats</h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=dina-masry&show_icons=true&theme=gotham" alt="Dina's GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dina-masry&layout=compact&theme=gotham" alt="Dina's Top Languages" />
 <img src="https://github-readme-trophy.vercel.app/?username=dina-masry&theme=gotham&no-bg=true" alt="GitHub Trophies">
 </div>
 
-🌐 Let's Connect!
+<h2>🌐 Let's Connect!</h2>
 <div align="center">
-<a href="https://linkedin.com/in/dina-masry" target="_blank" rel="noopener noreferrer">
+<a href="https://linkedin.com/in/dina-almasri-038aa4340" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
-<a href="mailto:dina.masry@example.com">
+  <div></div>
+<a href="mailto:dina40012@gmail.com">
 <img src="https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
 </a>
 </div>
