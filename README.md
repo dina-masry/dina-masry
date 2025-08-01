@@ -38,11 +38,11 @@ I am an innovative and results-driven Data Scientist with a powerful combination
 <div></div>
 <h2>🚀 What I'm Currently Working On</h2>
 <br>
-<img src="https://emojicdn.elk.sh/chart_with_upwards_trend?style=apple" width="20px" alt="Chart Emoji"> Predictive Modeling: Exploring advanced techniques for time series forecasting.
+📈 Predictive Modeling: Exploring advanced techniques for time series forecasting.
 <br>
-<img src="https://emojicdn.elk.sh/brain?style=apple" width="20px" alt="Brain Emoji"> Deep Learning: Building a multi-variate model using advanced Keras architectures.
+🧠 Deep Learning: Building a multi-variate model using advanced Keras architectures.
 <br>
-<img src="https://emojicdn.elk.sh/cloud?style=apple" width="20px" alt="Cloud Emoji"> Cloud Computing: Improving my knowledge of Google Cloud Platform and deployment strategies.
+☁️ Cloud Computing: Improving my knowledge of Google Cloud Platform and deployment strategies.
 
 <h2>📊 My GitHub Stats</h2>
 <div align="center">
