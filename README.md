@@ -52,11 +52,14 @@ I am an innovative and results-driven Data Scientist with a powerful combination
 </div>
 
 <h2>🌐 Let's Connect!</h2>
+<p align="center">
+I'm always open to discussing new opportunities or projects. Feel free to reach out!
+</p>
 <div align="center">
 <a href="https://linkedin.com/in/dina-almasri-038aa4340" target="_blank" rel="noopener noreferrer">
 <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
-  <div></div>
+&nbsp;&nbsp;
 <a href="mailto:dina40012@gmail.com">
 <img src="https://img.shields.io/badge/Drop_me_an_email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
 </a>
