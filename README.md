@@ -14,7 +14,7 @@
 
 <h2>💻 About Me</h2>
 <br>
-I am an innovative and results-driven Data Scientist with a powerful combination of academic excellence from Al-Azhar University (93% GPA in Computer Systems Engineering) and a robust 16-week bootcamp proficiency. My mission is to architect impactful, data-powered strategies by transforming complex datasets into actionable intelligence. My expertise spans the entire data science lifecycle, from advanced manipulation to deploying sophisticated models in deep learning, time series forecasting, and more. I am a lifelong learner with a relentless passion for innovation.
+Innovative Data Scientist and Machine Learning Engineer skilled in data preprocessing, visualization, and predictive modeling. Proficient in Python, TensorFlow, and Tableau, with hands-on experience in deep learning and time series forecasting. Passionate about turning complex datasets into meaningful insights that support data-driven decisions.
 <br>
 <h2>🛠️ My Core Knowledge & Toolkit</h2>
 <br>
@@ -42,8 +42,6 @@ I am an innovative and results-driven Data Scientist with a powerful combination
 <br>
 🧠 Deep Learning: Developing a multi-variate deep learning model using Keras/TensorFlow, such as an LSTM-based architecture, to analyze and predict complex patterns in interconnected datasets.
 <br>
-👁️ Computer Vision: Implementing Convolutional Neural Networks (CNNs) for image classification and object detection, applying knowledge to real-world visual data challenges.
-
 <h2>📂 My Projects</h2>
 📊 Sales Prediction Project: Focused on predicting future sales by leveraging regression models, feature engineering, and time-based analysis to provide actionable business insights.
 <br>
