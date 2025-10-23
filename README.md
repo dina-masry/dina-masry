@@ -43,9 +43,18 @@ Innovative Data Scientist and Machine Learning Engineer skilled in data preproce
 🧠 Deep Learning: Developing a multi-variate deep learning model using Keras/TensorFlow, such as an LSTM-based architecture, to analyze and predict complex patterns in interconnected datasets.
 <br>
 <h2>📂 My Projects</h2>
-📊 Sales Prediction Project: Focused on predicting future sales by leveraging regression models, feature engineering, and time-based analysis to provide actionable business insights.
+📊 Chicago Crime Analysis and Forecasting: Analyzed temporal and geospatial patterns, identified district-level crime disparities, quantified seasonality, and highlighted high-frequency periods (rush-hour, monthly, and holiday peaks) for strategic resource deployment. Constructed models for key offenses (Theft, Narcotics) to accurately forecast future crime rates, providing data-driven intelligence for proactive planning.
 <br>
-🧑‍💼 Adult Incomes Prediction Project: A classification-based project to predict whether an individual's income exceeds $50K, using classification models and advanced data pre-processing.
+💉 Maternal Mortality Prediction: Developed a robust multiclass classification model to accurately assess fetal health (Normal, Suspect, or Pathological) and achieved strong micro-average performance metrics: Precision 89%, Recall 88%, and F1-Score 88%.
+<br>
+📊 Sales Prediction Project: Built a linear regression model for sales prediction, achieving a robust performance metric with a Root Mean Square Error (RMSE) of $1,092.
+<br>
+🧑‍💼 Adult Incomes Prediction Project: Applied random forest and neural network models, achieving ~86% accuracy with the Random Forest model.
+<br>
+❤️ Heart Diseases Prediction Project: Applied a neural network model, achieving ~86% accuracy. 
+<br>
+✈️ Airline Customer Satisfaction Prediction Project: Applied a neural network model, achieving ~92% accuracy. Used clustering techniques to segment customers into distinct groups based on behavioral features, enabling targeted marketing strategies and personalized service offerings.
+<br>
 <br>
 <h2>🎨 Hobbies</h2>
 📚 Reading
