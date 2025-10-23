@@ -44,9 +44,16 @@ Innovative Data Scientist and Machine Learning Engineer skilled in data preproce
 <div></div>
 <h2>🚀 What I'm Currently Working On</h2>
 <br>
-📈 Predictive Modeling: Currently researching and implementing advanced statistical and deep learning models for time-series data, with a specific focus on capturing seasonality, trend, and external factors for more accurate predictions.
+📈 Predictive Modeling: Researching and implementing advanced statistical and deep learning models for time-series data, focusing on capturing trends, seasonality, and external factors for more accurate forecasts.
 <br>
-🧠 Deep Learning: Developing a multi-variate deep learning model using Keras/TensorFlow, such as an LSTM-based architecture, to analyze and predict complex patterns in interconnected datasets.
+🧠 Deep Learning: Developing multivariate deep learning models using Keras/TensorFlow, including LSTM and GRU architectures, to analyze complex patterns in interconnected datasets.
+<br>
+🛠 Data Engineering: Building and optimizing data pipelines, performing feature engineering, and ensuring clean, well-structured datasets for modeling.
+<br>
+📊 Data Visualization: Creating interactive and insightful visualizations using Matplotlib, Seaborn, and Tableau to communicate data patterns and model results effectively.
+<br>
+📊 Applied Analytics: Translating model results into actionable insights, creating dashboards, and preparing reports to support data-driven decision-making.
+<br>
 <br>
 <h2>📂 My Projects</h2>
 📊 <b>Chicago Crime Analysis and Forecasting</b>:<br>
