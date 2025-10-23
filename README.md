@@ -35,7 +35,6 @@ Innovative Data Scientist and Machine Learning Engineer skilled in data preproce
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab Badge">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge">
@@ -46,7 +45,7 @@ Innovative Data Scientist and Machine Learning Engineer skilled in data preproce
 <br>
 📈 Predictive Modeling: Researching and implementing advanced statistical and deep learning models for time-series data, focusing on capturing trends, seasonality, and external factors for more accurate forecasts.
 <br>
-🧠 Deep Learning: Developing multivariate deep learning models using Keras/TensorFlow, including LSTM and GRU architectures, to analyze complex patterns in interconnected datasets.
+🧠 Deep Learning: Developing multivariate deep learning models using Keras/TensorFlow.
 <br>
 🛠 Data Engineering: Building and optimizing data pipelines, performing feature engineering, and ensuring clean, well-structured datasets for modeling.
 <br>
@@ -57,23 +56,36 @@ Innovative Data Scientist and Machine Learning Engineer skilled in data preproce
 <br>
 <h2>📂 My Projects</h2>
 📊 <b>Chicago Crime Analysis and Forecasting</b>:<br>
-   - Analyzed temporal and geospatial patterns, identified district-level crime disparities, quantified seasonality, and highlighted high-frequency periods (rush-hour, monthly, and holiday peaks) for strategic resource deployment. <br>
-   - Constructed models for key offenses (Theft, Narcotics) to accurately forecast future crime rates, providing data-driven intelligence for proactive planning.
+   <ul>
+  <li>Analyzed temporal and geospatial patterns, identified district-level crime disparities, quantified seasonality, and highlighted high-frequency periods (rush-hour, monthly, and holiday peaks) for strategic resource deployment.</li>
+  <li>Constructed models for key offenses (Theft, Narcotics) to accurately forecast future crime rates, providing data-driven intelligence for proactive planning.</li>
+</ul>
 <br>
 💉 <b>Maternal Mortality Prediction</b>: <br>
-   - Developed a robust multiclass classification model to accurately assess fetal health (Normal, Suspect, or Pathological) and achieved strong micro-average performance metrics: Precision 89%, Recall 88%, and  F1-Score 88%.
+ <ul>
+  <li>Developed a robust multiclass classification model to accurately assess fetal health (Normal, Suspect, or Pathological) and achieved strong micro-average performance metrics: Precision 89%, Recall 88%, and F1-Score 88%.</li>
+</ul>
+
 <br>
 📊 <b>Sales Prediction Project</b>: <br>
-  - Built a linear regression model for sales prediction, achieving a robust performance metric with a Root Mean Square Error (RMSE) of $1,092.
+<ul>
+  <li>Built a linear regression model for sales prediction, achieving a robust performance metric with a Root Mean Square Error (RMSE) of $1,092.</li>
+</ul>
 <br>
 🧑‍💼 <b>Adult Incomes Prediction Project</b>: <br>
-   - Applied random forest and neural network models, achieving ~86% accuracy with the Random Forest model.
+<ul>
+  <li>Applied random forest and neural network models, achieving ~86% accuracy with the Random Forest model.</li>
+</ul>
 <br>
 ❤️ <b>Heart Diseases Prediction Project</b>: <br>
-   - Applied a neural network model, achieving ~86% accuracy. 
+<ul>
+  <li>Applied a neural network model, achieving ~86% accuracy.</li>
+</ul>
 <br>
 ✈️ <b>Airline Customer Satisfaction Prediction Project</b>: <br>
-   - Applied a neural network model, achieving ~92% accuracy. Used clustering techniques to segment customers into distinct groups based on behavioral features, enabling targeted marketing strategies and personalized service offerings.
+<ul>
+  <li>Applied a neural network model, achieving ~92% accuracy. Used clustering techniques to segment customers into distinct groups based on behavioral features, enabling targeted marketing strategies and personalized service offerings.</li>
+</ul>
 <br>
 <br>
 <h2>🎨 Hobbies</h2>
