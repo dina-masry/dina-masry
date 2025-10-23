@@ -21,19 +21,25 @@ Innovative Data Scientist and Machine Learning Engineer skilled in data preproce
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge">
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge">
-<br>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas Badge">
 <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="Numpy Badge">
 <img src="https://img.shields.io/badge/Matplotlib-5D3B82?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib Badge">
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge">
+<img src="https://img.shields.io/badge/Seaborn-3498DB?style=for-the-badge&logo=seaborn&logoColor=white" alt="Seaborn Badge">
+<img src="https://img.shields.io/badge/Plotly-FF6699?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly Badge">
 <br>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn Badge">
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras Badge">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow Badge">
+<img src="https://img.shields.io/badge/Statsmodels-008080?style=for-the-badge&logo=statsmodels&logoColor=white" alt="Statsmodels Badge">
 <img src="https://img.shields.io/badge/CRISP--DM-009688?style=for-the-badge&logo=appveyor&logoColor=white" alt="CRISP-DM Badge">
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Badge">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Colab Badge">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau Badge">
+
 </div>
 <div></div>
 <h2>🚀 What I'm Currently Working On</h2>
